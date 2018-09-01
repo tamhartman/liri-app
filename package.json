@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/tamhartman/liri-app/issues"
   },
-  "homepage": "https://github.com/tamhartman/liri-app#readme"
+  "homepage": "https://github.com/tamhartman/liri-app#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "omdb": "^0.8.0"
+  }
 }
